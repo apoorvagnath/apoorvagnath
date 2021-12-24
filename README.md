@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apoorva
+- 👋 Hi, I’m Apoorva
 - 👀 I am a biologist
 
 <!---
